@@ -37,6 +37,7 @@ https://github.com/Kha998/HR-Analysis-Dashboard/blob/main/Snapshot%20Employee%20
 ### Employee Demographic Analysis Dashboard
 This dashboard provides insights into workforce composition across age, gender, tenure, department, experience, and business travel.
 
+https://github.com/Kha998/HR-Analysis-Dashboard/blob/main/Snapshot%20Employee%20Demographic%20Analysis%20Dashboard.png
 
 ###  Salary & Performance Analysis Dashboard
 This dashboard evaluates salary distribution, performance ratings, high-performer proportion, and pay–performance alignment.
