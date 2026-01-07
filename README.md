@@ -31,6 +31,8 @@ Below are snapshots of the key dashboards included in this HR Analytics project:
 ### Attrition Analysis Dashboard
 This dashboard highlights employee attrition trends, high-risk departments and job roles, and key drivers such as overtime and job satisfaction.
 
+https://github.com/Kha998/HR-Analysis-Dashboard/blob/main/Snapshot%20Employee%20Attrition%20Analysis%20Dashboard.png
+
 
 ### Employee Demographic Analysis Dashboard
 This dashboard provides insights into workforce composition across age, gender, tenure, department, experience, and business travel.
