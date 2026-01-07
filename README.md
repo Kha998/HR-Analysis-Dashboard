@@ -13,7 +13,7 @@ To develop a comprehensive HR analytics solution that helps organizations:
 
 
 ## Project Overview
-The analysis is based on **1,470 employee records** and is delivered through **three integrated Power BI dashboards**, supported by insight and recommendation pages:
+The analysis is delivered through **three integrated Power BI dashboards**, supported by insight and recommendation pages:
 
 - **Attrition Analysis Dashboard**  
   Analyzes attrition rate, turnover trends, high-risk departments and job roles, and key drivers such as overtime and job satisfaction.
@@ -42,6 +42,7 @@ https://github.com/Kha998/HR-Analysis-Dashboard/blob/main/Snapshot%20Employee%20
 ###  Salary & Performance Analysis Dashboard
 This dashboard evaluates salary distribution, performance ratings, high-performer proportion, and pay–performance alignment.
 
+https://github.com/Kha998/HR-Analysis-Dashboard/blob/main/Snapshot%20Salary%20%26%20Performance%20Analysis%20Dashboard.png
 
 
 ## Key Business Questions
